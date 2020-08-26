@@ -3,7 +3,7 @@
             Funcionalidade: Criar conta - Casas Bahia
             Como um consumidor final
             Quero criar conta no site das Casas Bahia
-            Para poder fazer compras online
+            Para poder fazer pesquisas online
 
             @cadastro
             Esquema do Cenário: Cadastro com campos obrigatórios inválidos

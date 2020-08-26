@@ -1,6 +1,6 @@
 Dado(/^que eu esteja no formulário de cadastro das Casas Bahia$/) do
     @home = Cadastro.new 
-    @home.load 
+ 
   end
   
   Quando(/^eu preencher os campos "([^"]*)","([^"]*)","([^"]*)","([^"]*)","([^"]*)","([^"]*)","([^"]*)","([^"]*)","([^"]*)","([^"]*)","([^"]*)","([^"]*)","([^"]*)"$/) do |nome,cpf,ddd1,tel,ddd2,cel,dia,mes,ano,email,email2,senha,senha2|
